@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "382951499393",
+    "firebase_url": "https://el-chat-3e205.firebaseio.com",
+    "project_id": "el-chat-3e205",
+    "storage_bucket": "el-chat-3e205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382951499393:android:db02817afb4b0482",
+        "android_client_info": {
+          "package_name": "ado.com.ember.elchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382951499393-8e0s1k0pk1otf6csfl2njf7oid1fu0nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiTWJeFNWXTk44-43lYtzyydUeDn6ufms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
